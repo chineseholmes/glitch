@@ -40,7 +40,7 @@
             "protocol": "freedom",
             "tag": "direct",
             "settings": {
-                "domainStrategy": "UseIPv4"
+                "domainStrategy": "UseIP"
             }
         },
         {
